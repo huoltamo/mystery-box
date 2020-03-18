@@ -1,0 +1,2 @@
+The mystetry box will have a button and it will open after the button is pressed. That will reveal the inside of the box and there
+will be different functions, light or led strip.
